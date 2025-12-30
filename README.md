@@ -17,9 +17,9 @@ Lock combination decoder for Master Lock 1500 series – no shims, no fluff, jus
 ## Why NoShim?
 We believe in building tools that work without nonsense. This is free software made for practical, legal decoding — for your own locks or with permission.
 
-## 📜 License
+## License
 MIT License — use, share, improve. Just don't claim it as yours.
 
 ---
 
-🛠 Made with frustration and precision by [B.S. Supply Co.](https://bssply.co)
+Made with frustration and precision by [B.S. Supply Co.](https://bssply.co)
